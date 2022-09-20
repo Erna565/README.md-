@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T18:05:34.819Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RoJPwqRZGXp-IojnA0fN" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T18:06:09.886Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="i1cJTSxZk_121TE42k9V" version="20.2.0" type="github">
   <diagram id="kZCninyqTZ-Oqe8DVxjy" name="Страница 1">
     <mxGraphModel dx="836" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="210" y="110" width="227.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7SDOrKk24Djn0kjqLThb-6" value="Выводим полученный массив" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="274.38" y="240" width="121.25" height="110" as="geometry" />
+          <mxGeometry x="263.12" y="240" width="121.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7SDOrKk24Djn0kjqLThb-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7SDOrKk24Djn0kjqLThb-3" target="7SDOrKk24Djn0kjqLThb-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,12 +26,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7SDOrKk24Djn0kjqLThb-8" value="ВВодим новый массив строк не более&amp;nbsp; 3 символов" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="274.38" y="380" width="135.63" height="60" as="geometry" />
+          <mxGeometry x="270" y="380" width="135.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7SDOrKk24Djn0kjqLThb-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7SDOrKk24Djn0kjqLThb-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="360" as="sourcePoint" />
             <mxPoint x="335" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7SDOrKk24Djn0kjqLThb-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.43;exitY=1.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7SDOrKk24Djn0kjqLThb-8" target="7SDOrKk24Djn0kjqLThb-15">
