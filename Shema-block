@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T18:24:35.924Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8Nsw_hpLSJhMIR3oMnV9" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T18:27:34.197Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QRwypz6MmMBQN3I3yJxQ" version="20.2.0" type="github">
   <diagram id="kZCninyqTZ-Oqe8DVxjy" name="Страница 1">
     <mxGraphModel dx="836" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7SDOrKk24Djn0kjqLThb-23" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Начало&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="7SDOrKk24Djn0kjqLThb-23" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Start&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7SDOrKk24Djn0kjqLThb-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7SDOrKk24Djn0kjqLThb-23" target="7SDOrKk24Djn0kjqLThb-25">
