@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T18:04:09.239Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CYWwglSz_KICWVY-HVeW" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T18:05:34.819Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RoJPwqRZGXp-IojnA0fN" version="20.2.0" type="github">
   <diagram id="kZCninyqTZ-Oqe8DVxjy" name="Страница 1">
     <mxGraphModel dx="836" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7SDOrKk24Djn0kjqLThb-8" value="ВВодим новый массив строк не более&amp;nbsp; 3 символов" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="275.63" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="274.38" y="380" width="135.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7SDOrKk24Djn0kjqLThb-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7SDOrKk24Djn0kjqLThb-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
